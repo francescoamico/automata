@@ -3,4 +3,4 @@
 - check string 
 - reverse
 - subset construction
-- Brzozowsky algorithm
+- Brzozowski algorithm
